@@ -1,0 +1,28 @@
+{
+    "name": "express-api",
+    "version": "1.0.0",
+    "description": "Simple Express API with GitHub Actions",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "supertest": "^6.3.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shishirvyas/express-api-with-github-actions.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shishirvyas/express-api-with-github-actions/issues"
+    },
+    "homepage": "https://github.com/shishirvyas/express-api-with-github-actions#readme"
+}
